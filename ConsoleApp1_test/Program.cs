@@ -6,6 +6,9 @@ namespace ConsoleApp1_test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
+
+
             // edited from alpha branch
             Console.WriteLine("Hello World from alpha branch");
             // Holla
