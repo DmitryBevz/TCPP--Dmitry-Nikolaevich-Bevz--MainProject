@@ -8,9 +8,9 @@ namespace ConsoleApp1_test
         {
             Console.WriteLine("Hello World!");
 
-
+            // bla-bla-bla
             // edited from alpha branch
-            Console.WriteLine("Hello World from alpha branch");
+            Console.WriteLine("Hello World from alpha branch, but from VS :-)");
             // Holla
         }
     }
