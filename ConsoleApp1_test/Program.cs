@@ -10,7 +10,7 @@ namespace ConsoleApp1_test
 
             // bla-bla-bla
             // edited from alpha branch
-            Console.WriteLine("Hello World from alpha branch, but from VS :-)");
+            Console.WriteLine("Hello World from alpha branch, with Chrome");
             // Holla
         }
     }
