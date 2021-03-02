@@ -6,6 +6,9 @@ namespace ConsoleApp1_test
     {
         static void Main(string[] args)
         {
+            // конфлікт вирішено 02.03.2021
+            // зміни з браузера
+            // зміни з ІДЄ
             Console.WriteLine("Hello World!");
         }
     }
